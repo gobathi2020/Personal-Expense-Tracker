@@ -7,11 +7,11 @@ This program allows users to record daily expenses, categorize them, view spendi
 
 
 ## 🚀 Features
-- **Add Expense** – Enter category, amount, note, and date of the expense.
-- **View All Expenses** – Displays a formatted list of all recorded expenses.
-- **Category Summary** – Shows total spending per category.
-- **Search by Date** – Filters expenses for a specific date.
-- **Persistent Storage** – Saves expenses to a local file (`expenses.dat`) and loads them on startup.
+- **Add Expense** - Enter category, amount, note, and date of the expense.
+- **View All Expenses** - Displays a formatted list of all recorded expenses.
+- **Category Summary** - Shows total spending per category.
+- **Search by Date** - Filters expenses for a specific date.
+- **Persistent Storage** - Saves expenses to a local file (`expenses.dat`) and loads them on startup.
 
 
 
