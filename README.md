@@ -1,7 +1,7 @@
 # 💰 Personal Expense Tracker (Java)
 
 A simple **console-based expense management application** built using **Core Java**, **OOP principles**, and **file handling**.  
-This program allows users to record daily expenses, categorize them, view spending summaries, and search by date — with **data persistence** using a local file.
+This program allows users to record daily expenses, categorize them, view spending summaries, and search by date with **data persistence** using a local file.
 
 
 
